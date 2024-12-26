@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af492ef3-9d84-4cc0-8faa-d1392d77809a" name="Changes" comment="" />
+    <list default="true" id="af492ef3-9d84-4cc0-8faa-d1392d77809a" name="Changes" comment="init.">
+      <change beforePath="$PROJECT_DIR$/my-learn-project/my-learn-project/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +12,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "1-million"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/1-million/my-learn-project.git",
+    "accountId": "f7cb9856-ac66-43df-9020-76485dcc87d4"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -24,10 +38,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/development/pythonProjects/my-learn-project",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\development\pythonProjects\my-learn-project" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,11 +64,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735227897812</updated>
-      <workItem from="1735227898901" duration="4000" />
+      <workItem from="1735227898901" duration="113000" />
     </task>
+    <task id="LOCAL-00001" summary="init.">
+      <option name="closed" value="true" />
+      <created>1735227963493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735227963493</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init." />
+    <option name="LAST_COMMIT_MESSAGE" value="init." />
   </component>
 </project>
